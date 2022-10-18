@@ -1,0 +1,4 @@
+pytest tests/
+
+coverage run main.py
+coverage report
